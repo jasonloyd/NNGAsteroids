@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=./slick.jar -DgroupId=slick -DartifactId=slick -Dversion=274 -Dpackaging=jar -DgeneratePom=true

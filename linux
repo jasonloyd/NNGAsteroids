@@ -1,0 +1,3 @@
+#! /bin/bash
+# Copyright David Laurell <david.laurell@gmail.com>
+java -Djava.library.path=lib -jar game.jar
